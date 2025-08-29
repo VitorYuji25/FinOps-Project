@@ -5,4 +5,4 @@
 
 ## Ultimate AWS FinOps Cloud Cost Management Masterclass! | Udemy Business
 
-[Prints - Ultimate AWS FinOps - Documentos Google.pdf](https://github.com/user-attachments/files/22048179/Prints.-.Ultimate.AWS.FinOps.-.Documentos.Google.pdf)
+[Prints - Ultimate AWS FinOps - Documentos Google.pdf](https://github.com/VitorYuji25/FinOps-Project/blob/main/Prints%20-%20Ultimate%20AWS%20FinOps%20-%20Documentos%20Google.pdf)
